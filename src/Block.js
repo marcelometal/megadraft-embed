@@ -10,8 +10,8 @@ import {MegadraftPlugin, MegadraftIcons} from "megadraft";
 
 import validUrl from "valid-url";
 
-import Button from "components/Button";
-import Icon from "components/Icon";
+import Button from "./Button";
+import Icon from "./Icon";
 
 const {BlockContent, BlockData, BlockInput, CommonBlock} = MegadraftPlugin;
 
